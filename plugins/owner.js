@@ -17,7 +17,7 @@ async (conn, mek, m, { from }) => {
 
         // Create a vCard (contact card) for the owner
         const vcard = 'BEGIN:VCARD\n' +
-                      'VERSION:3.0\n' +
+                      'VERSION:1.0\n' +
                       `FN:${ownerName}\n` +  // Full Name
                       `ORG:${organization};\n` +  // Organization (Optional)
                       `TEL;type=CELL;type=VOICE;waid=${ownerNumber.replace('+', '')}:${ownerNumber}\n` +  // WhatsApp ID and number
