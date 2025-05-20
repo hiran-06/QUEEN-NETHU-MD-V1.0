@@ -11,12 +11,12 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 let about = `
-*╭━━〔 AWAIS-MD 〕━━┈⊷*
+*╭━━〔 𝑸𝑼𝑬𝑬𝑵 𝑵𝑬𝑻𝑯𝑼-𝑴𝑫 〕━━┈⊷*
 
 *👋 HELLO ${pushname}*
 
 *╰──────────────┈⊷*
-*╭━━━〔 MY ABOUT 〕━━━┈⊷*
+*╭━━━〔 𝑀𝑌 𝐴𝐵𝑂𝑈𝑇 〕━━━┈⊷*
 *┃★╭──────────────*
 *┃★│* *ᴡᴇʟᴄᴏᴍᴇ ɪᴛs ǫᴜᴇᴇɴ ɴᴇᴛʜᴜ-ᴍᴅ-ʙᴏᴛ*
 *┃★│* *ᴄʀᴇᴀᴛᴇʀ : ʟɪʏᴏ*
@@ -52,7 +52,7 @@ await conn.sendMessage(from,{image:{url:`https://i.ibb.co/B2gnQ2rm/IMG-20250216-
     forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363369260614615@newsletter',
+      newsletterJid: '120363418236531781@newsletter',
       newsletterName: 'Queen Nethu-MD',
       serverMessageId: 999
     }
