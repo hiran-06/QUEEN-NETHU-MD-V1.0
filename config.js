@@ -29,7 +29,7 @@ module.exports = {
     FAKE_RECORDING: process.env.FAKE_RECORDING || "false",
     AUTO_REACT: process.env.AUTO_REACT || "false",
     OWNER_REACT: process.env.OWNER_REACT || "false",
-    BOT_NAME: process.env.BOT_NAME || "ᴀᴡᴀɪs ᴍᴅ",
+    BOT_NAME: process.env.BOT_NAME || "𝑸𝑼𝑬𝑬𝑵 𝑵𝑬𝑻𝑯𝑼-𝑴𝑫",
     ANTI_VV: process.env.ANTI_VV || "true",
     ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log", // change it to 'same' if you want to resend deleted message in same chat
     DEV: process.env.DEV || "923470027813", //replace with your whatsapp number
