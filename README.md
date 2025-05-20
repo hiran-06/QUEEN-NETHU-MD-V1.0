@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+QUEEN+NETHU;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY;MANUL+OFFICIAL." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+QUEEN+NETHU;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY;LIYO+OFFICIAL." alt="Typing SVG" /></a>
 
  
   
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://youtu.be/@ManulOfficialTech">
-    <img alt="MANU-MD" height="300" width="650" src="https://i.ibb.co/xbY5J8S/IMG-20250228-WA0188.jpg">
+    <img alt="MANU-MD" height="300" width="650" src="https://i.ibb.co/B2gnQ2rm/IMG-20250216-WA0140.jpg">
 
     
 
