@@ -97,7 +97,7 @@ jobs:
 <br>
 <br>
 <br>
-## 👑 `Manu-MD BOT OWNER`👨‍💻 
+## 👑 `QUEEN NETHU-MD BOT OWNER`👨‍💻 
 
 `⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ.`
 
