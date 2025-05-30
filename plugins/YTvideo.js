@@ -25,7 +25,7 @@ cmd(
       const url = data.url;
 
       // Video metadata description
-      let desc = 🎥 *ROBIN MAX VIDEO DOWNLOADER* 🎥
+      let desc = 🎥 *Liyo VIDEO DOWNLOADER* 🎥
       
 👻 *Title* : ${data.title}
 👻 *Duration* : ${data.timestamp}
@@ -34,7 +34,7 @@ cmd(
 👻 *Channel* : ${data.author.name}
 👻 *Link* : ${data.url}
 
-𝐌𝐚𝐝𝐞 𝐛𝐲 ROBIN MAX
+𝑴𝒂𝒃𝒆 𝒃𝒚 𝑳𝒊𝒚𝒐
 ;
 
       // Send metadata and thumbnail message
@@ -55,7 +55,7 @@ cmd(
           const { id, title } = response.data;
 
           // Wait for download URL generation
-          const progressUrl = https://p.oceansaver.in/ajax/progress.php?id=${id};
+          const progressUrl = `https://p.oceansaver.in/ajax/progress.php?id=${id}`;
           while (true) {
             const progress = await axios.get(progressUrl);
             if (progress.data.success && progress.data.progress === 1000) {
@@ -80,7 +80,7 @@ cmd(
         from,
         {
           video: video.buffer,
-          caption: 🎥 *${video.title}*\n\n𝐌𝐚𝐝𝐞 𝐛𝐲 ROBIN MAX,
+          caption: `🎥 *${video.title}*\n\n𝑴𝒂𝒃𝒆 𝒃𝒚 𝑳𝑰𝒀𝑶 `,
         },
         { quoted: mek }
       );
@@ -88,7 +88,7 @@ cmd(
       reply("*Thanks for using my bot!* 🎥❤️");
     } catch (e) {
       console.error(e);
-      reply('❌ Error: ${e.message}');
+      reply(`❌ Error: ${e.message}`);
     }
   }
 );
