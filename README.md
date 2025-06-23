@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src=DEVICE+WHATSAPP+BOT;DEVELOPED+BY;LIYO+OFFICIAL." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src=" alt="Typing SVG" /></a>
 
  
   
@@ -12,8 +12,7 @@
 
 <p align="center">
   <a href="https://youtu.be/@ManulOfficialTech">
-    <img alt="QUEEN NETHU-MD" height="300" width="650" src="https://i.ibb.co/B2gnQ2rm/IMG-20250216-WA0140.jpg">
-
+    <img alt="
     
 
 ![forks](https://img.shields.io/github/forks/ManulOfcTech/Manu-XMD?label=Forks&style=social)
