@@ -1,7 +1,9 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src=" alt="Typing SVG" /></a>
 
- 
+ <p align="center">
+  <img src="https://files.catbox.moe/334aac.jpg" />
+</p>
   
 <div align="center">
 </p
